@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Anarchy in Sudan has spawned the world’s worst famine in 40 years",
+        "link": "https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years"
+    },
+    {
+        "title": "Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime",
+        "link": "https://vitaut.net/posts/2024/binary-size/"
+    },
+    {
+        "title": "Einstein's Other Theory of Everything",
+        "link": "https://nautil.us/einsteins-other-theory-of-everything-823245/"
+    },
+    {
+        "title": "C Course Online",
+        "link": "https://lucidar.me/en/c-class/learn-c-programming/"
+    },
+    {
+        "title": "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
+        "link": "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"
+    },
+    {
+        "title": "Founder Mode",
+        "link": "https://paulgraham.com/foundermode.html"
+    },
+    {
+        "title": "Playstation 2 GS emulation – the final frontier of Vulkan compute emulation",
+        "link": "https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/"
+    },
+    {
+        "title": "Harder Drive: hard drives we didn't want, or need (2022) [video]",
+        "link": "http://tom7.org/harder/"
+    },
+    {
+        "title": "How big a table do you need for your jigsaw puzzle?",
+        "link": "https://arxiv.org/abs/2312.04588"
+    },
+    {
+        "title": "E Ink faces growing competition in the \"paper-like\" display space",
+        "link": "https://liliputing.com/e-ink-faces-growing-competition-in-the-paper-like-display-space/"
+    },
+    {
+        "title": "Did your car witness a crime?",
+        "link": "https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php"
+    },
+    {
+        "title": "Build Your Own Z80 Computer: Design Guidelines and Application",
+        "link": "https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia"
+    },
+    {
+        "title": "Making an atomic trampoline [video]",
+        "link": "https://www.youtube.com/watch?v=jLX1-tNnvEo"
+    },
+    {
+        "title": "The Null Pointer",
+        "link": "https://0x0.st/"
+    },
+    {
+        "title": "The papers that most heavily cite retracted studies",
+        "link": "https://www.nature.com/articles/d41586-024-02719-5"
+    },
+    {
+        "title": "A brief history of barbed wire fence telephone networks",
+        "link": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/"
+    },
+    {
+        "title": "MapRoulette: the micro-tasking tool for OpenStreetMap",
+        "link": "https://maproulette.org/"
+    },
+    {
+        "title": "The Atari 7800",
+        "link": "https://www.goto10retro.com/p/inside-the-atari-7800"
+    },
+    {
+        "title": "Ask HN: How To: Internal Documentation?",
+        "link": "item?id=41415619"
+    },
+    {
+        "title": "Taming the beast that is the Django ORM – An introduction",
+        "link": "https://www.davidhang.com/blog/2024-09-01-taming-the-django-orm/"
+    },
+    {
+        "title": "Percona Everest: open-source automated database provisioning and management",
+        "link": "https://docs.percona.com/everest/index.html"
+    },
+    {
+        "title": "WatchYourLAN: Lightweight Network IP Scanner",
+        "link": "https://github.com/aceberg/WatchYourLAN"
+    },
+    {
+        "title": "Astronomers puzzled by little red galaxies that seem impossibly dense",
+        "link": "https://www.newscientist.com/article/2445967-astronomers-puzzled-by-little-red-galaxies-that-seem-impossibly-dense/"
+    },
+    {
+        "title": "Godot on iPad, Toolbars, Importers, Embedding, Debugger",
+        "link": "https://blog.la-terminal.net/godot-on-ipad-summer-update/"
+    },
+    {
+        "title": "Client-side QR code generator with SVG output",
+        "link": "https://fietkau.software/qr"
+    },
+    {
+        "title": "Brazil's X ban is sending lots of people to Bluesky",
+        "link": "https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky"
+    },
+    {
+        "title": "Epilepsy Protection for VRChat",
+        "link": "https://github.com/LesseVR/EpilepsyProtection"
+    },
+    {
+        "title": "Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)",
+        "link": "https://github.com/velorek1/C-edit"
+    },
+    {
+        "title": "Show HN: Typeform alternative, turns Markdown to forms",
+        "link": "https://blocks.md"
+    },
+    {
+        "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+        "link": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+    }
+]
